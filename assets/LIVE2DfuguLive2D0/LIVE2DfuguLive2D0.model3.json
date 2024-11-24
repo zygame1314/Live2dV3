@@ -1,0 +1,17 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "LIVE2DfuguLive2D0.moc3",
+		"Textures": [
+			"LIVE2DfuguLive2D0.2048/texture_00.png"
+		],
+		"DisplayInfo": "LIVE2DfuguLive2D0.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
